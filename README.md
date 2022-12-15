@@ -7,7 +7,7 @@
 ![css](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg)
 ![python](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg)
 
-<code><img alt="GIF" src="https://github.com/elementaryrock/elementaryrock/blob/master/assets/vscode.gif.gif" width="500" height="320" /></code>
+<code><img alt="GIF" src="https://raw.githubusercontent.com/elementaryrock/elementaryrock/main/assets/vscode.gif.gif" width="500" height="320" /></code>
 
 <!--
 **elementaryrock/elementaryrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
