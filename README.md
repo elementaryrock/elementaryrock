@@ -5,16 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently learning ...
-<html><body>
- <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top margin:6px 4px">
-  </a> 
-</html></body>
-- 🌱 I’m currently learning ...
+- 🔭  I am learning:
+
+&emsp;&emsp;
+![Html](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg)
+![css](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg)
+![python](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/python.svg)
+
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
