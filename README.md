@@ -9,6 +9,7 @@
 
 Code editor used by me:
 
+<code><img alt="png" src="assets/Maanas MS.png" width="500" height="320" /></code>
 <code><img alt="GIF" src="https://raw.githubusercontent.com/elementaryrock/elementaryrock/main/assets/vscode.gif.gif" width="500" height="320" /></code>
 
 <!--
