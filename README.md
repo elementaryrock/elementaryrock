@@ -1,5 +1,5 @@
 ### Hi there 👋
-<code><img alt="png" src="assets/Maanas MS.png" width="1080" height="1920" /></code>
+<code><img alt="png" src="assets/Maanas MS.png" width="960" height="540" /></code>
 
 🔭  I am learning:
 
