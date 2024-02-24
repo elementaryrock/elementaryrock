@@ -8,7 +8,7 @@
 ![css](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg)
 ![python](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg)
 
-Code editor used by me:
+Code editor that I use:
 
 
 <code><img alt="GIF" src="https://raw.githubusercontent.com/elementaryrock/elementaryrock/main/assets/vscode.gif.gif" width="500" height="320" /></code>
