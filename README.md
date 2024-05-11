@@ -15,9 +15,8 @@
 
 ## Now Playing 🎧
 
-Spotify
-<object data=https://6klabs.com/widget/spotify/ width=”650″ height=”500″> <embed src=https://6klabs.com/widget/spotify/f02ff098bca7af82ca4661d8db523b98366cda848d9a2a2e3f2489b8e32f7ef1 width=”650″ height=”500″> </embed></object>
-<br/>
+[Spotify](https://6klabs.com/widget/spotify/f02ff098bca7af82ca4661d8db523b98366cda848d9a2a2e3f2489b8e32f7ef1)
+
 
 ## Get in touch :coffee:
 
