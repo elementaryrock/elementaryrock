@@ -11,7 +11,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elementaryrock&theme=dracula)
 
-<code><img alt="GIF" src="https://raw.githubusercontent.com/elementaryrock/elementaryrock/main/assets/vscode.gif.gif" width="500" height="320" /></code>
 
 ## Now Playing 🎧
 
