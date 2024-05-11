@@ -9,9 +9,7 @@
 ![js](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg)
 ![python](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg)
 
-
-Code editor that I use:
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elementaryrock)](https://github.com/anuraghazra/github-readme-stats)
 
 <code><img alt="GIF" src="https://raw.githubusercontent.com/elementaryrock/elementaryrock/main/assets/vscode.gif.gif" width="500" height="320" /></code>
 
