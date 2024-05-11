@@ -15,16 +15,9 @@
 
 ## Now Playing 🎧
 
-### Spotify
-<code>
-<iframe style="height:500px; width:650px;" src="https://6klabs.com/widget/spotify/f02ff098bca7af82ca4661d8db523b98366cda848d9a2a2e3f2489b8e32f7ef1">
-<b>IFrame is NOT available here</b>
-</iframe>
+[![Spotify](https://spotify-now-playing-nine-black.vercel.app
+.vercel.app/api/spotify)](https://open.spotify.com/user/31muzcjmfbghuymydjey34i2z2dq)
 
-<iframe style="height:500px; width:650px;" src="https://6klabs.com/widget/spotify/f02ff098bca7af82ca4661d8db523b98366cda848d9a2a2e3f2489b8e32f7ef1">
-<b>IFrame is available here</b>
-</iframe>
-</code>
 ## Get in touch :coffee:
 
 - [Portfolio](https://maanasms.eu.org)
