@@ -15,8 +15,7 @@
 
 ## Now Playing 🎧
 
-![Spotify](https://spotify-now-playing-nine-black.vercel.app
-.vercel.app/api/spotify)](https://open.spotify.com/user/31muzcjmfbghuymydjey34i2z2dq)
+![Spotify](https://spotify-now-playing-nine-black.vercel.app/api/spotify)](https://open.spotify.com/user/31muzcjmfbghuymydjey34i2z2dq)
 
 ## Get in touch :coffee:
 
