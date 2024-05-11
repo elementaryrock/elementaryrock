@@ -1,5 +1,7 @@
 ## Hi there :wave:
-<code><img alt="png" src="assets/Maanas MS.png" width="960" height="540" /></code>
+<code><img alt="png" src="assets/Maanas MS.png" width="960" height="540" /></code>\
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6C2F&random=false&width=435&lines=Enjoying+Life+%F0%9F%98%84;Building+Stuff+%F0%9F%92%BB;And+growing+everyday+%F0%9F%8C%85%F0%9F%8C%9E)](https://git.io/typing-svg)
 
 ## 🔭  I am learning:
 
