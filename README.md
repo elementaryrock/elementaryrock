@@ -15,7 +15,9 @@
 
 ## Now Playing 🎧
 
-![Spotify](https://spotify-now-playing-nine-black.vercel.app/api/spotify)](https://open.spotify.com/user/31muzcjmfbghuymydjey34i2z2dq)
+&nbsp;<div align="center">
+  [![Spotify](https://spotify-now-playing-nine-black.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/maanasms)
+</div>
 
 ## Get in touch :coffee:
 
