@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there :wave:
 <code><img alt="png" src="assets/Maanas MS.png" width="960" height="540" /></code>
 
-🔭  I am learning:
+## 🔭  I am learning:
 
 &emsp;&emsp;
 ![Html](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg)
@@ -9,10 +9,16 @@
 ![js](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg)
 ![python](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elementaryrock&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elementaryrock&theme=dracula)
 
 <code><img alt="GIF" src="https://raw.githubusercontent.com/elementaryrock/elementaryrock/main/assets/vscode.gif.gif" width="500" height="320" /></code>
 
+## Get in touch :coffee:
+
+- [Portfolio](https://maanasms.eu.org)
+- [Twitter](https://twitter.com/maanasms)
+- [Medium](https://medium.com/@maanasms)
+- [LinkedIn](https://www.linkedin.com/in/maanasms)
 <!--
 **elementaryrock/elementaryrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
