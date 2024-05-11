@@ -16,7 +16,7 @@
 ## Now Playing 🎧
 
 &nbsp;<div align="center">
-  [![Spotify](https://spotify-now-playing-nine-black.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/maanasms)
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31muzcjmfbghuymydjey34i2z2dq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=7718ec&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 ## Get in touch :coffee:
