@@ -17,7 +17,7 @@
 ## Now Playing 🎧
 
 &nbsp;<div align="center">
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31muzcjmfbghuymydjey34i2z2dq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=7718ec&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31muzcjmfbghuymydjey34i2z2dq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=7718ec&bar_color_cover=false)](https://open.spotify.com/user/31muzcjmfbghuymydjey34i2z2dq?si=6e8b965ed40f4ff9)
 </div>
 
 ## Get in touch :coffee:
