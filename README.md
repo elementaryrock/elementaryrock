@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6C2F&random=false&width=435&lines=Enjoying+Life+%F0%9F%98%84;Building+Stuff+%F0%9F%92%BB;And+growing+everyday+%F0%9F%8C%85%F0%9F%8C%9E)](https://git.io/typing-svg)
 
 ## 🔭  I am learning:
-
 ![Html](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg)
 ![css](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg)
 ![js](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg)
