@@ -5,7 +5,6 @@
 
 ## 🔭  I am learning:
 
-&emsp;&emsp;
 ![Html](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg)
 ![css](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg)
 ![js](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg)
