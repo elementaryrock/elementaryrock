@@ -11,6 +11,7 @@
 ![js](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg)
 ![python](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg)
 ![react](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg)
+![c](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/c.svg)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elementaryrock&theme=dracula)
