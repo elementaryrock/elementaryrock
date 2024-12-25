@@ -1,5 +1,6 @@
 ## Hi there :wave:
-<img alt="png" src="assets/readme1.png" />
+<img alt="png" src="assets/readme1.png"/>
+<a href="https://maanas.pages.dev/"><img alt="png" src="assets/readme2.png" /></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6C2F&random=false&width=435&lines=Enjoying+Life+%F0%9F%98%84;Building+Stuff+%F0%9F%92%BB;And+growing+everyday+%F0%9F%8C%85%F0%9F%8C%9E)](https://git.io/typing-svg)
 
