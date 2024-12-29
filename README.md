@@ -6,7 +6,6 @@
 
 ## 🔭  I am learning:
 
-
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -41,16 +40,25 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elementaryrock&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elementaryrock&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide=Jupyter%20Notebook&langs_count=8)
 
+## GitHub Stats 📊
 
-## Get in touch :coffee:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elementaryrock&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elementaryrock&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</div>
 
-- [Portfolio](https://maanasms.eu.org)
-- [Twitter](https://twitter.com/maanasms)
-- [Medium](https://medium.com/@maanasms)
-- [LinkedIn](https://www.linkedin.com/in/maanasms)
+## Profile Views 👀
+![Profile Views](https://komarev.com/ghpvc/?username=elementaryrock&color=F85D7F&style=for-the-badge)
 
+## Get In Touch 🤝
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://maanasms.eu.org)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maanasms)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maanasms)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maanasms)
 
 <!--
 **elementaryrock/elementaryrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
