@@ -50,6 +50,37 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elementaryrock&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
 
+## 📈 Contribution Graph
+[![Maanas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elementaryrock&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=F85D7F&point=F8D866&color=FFFFFF)](https://github.com/elementaryrock)
+
+## 🎵 My Spotify
+[![My Spotify](https://spotify-recently-played-readme.vercel.app/api?user=316x6innmikmiyiuqq5vic7glj54&unique=true&count=5)](https://open.spotify.com/user/316x6innmikmiyiuqq5vic7glj54)
+
+## ⚡ Tech Stack
+
+### 🚀 Languages
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧩 Libraries & Framework
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🧑🏻‍💻 Tools & Platform
+
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
 ## Profile Views 👀
 ![Profile Views](https://komarev.com/ghpvc/?username=elementaryrock&color=F85D7F&style=for-the-badge)
 
@@ -59,6 +90,10 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maanasms)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maanasms)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maanasms)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</p>
 
 <!--
 **elementaryrock/elementaryrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
