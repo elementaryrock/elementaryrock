@@ -53,9 +53,6 @@
 ## 📈 Contribution Graph
 [![Maanas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elementaryrock&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=F85D7F&point=F8D866&color=FFFFFF)](https://github.com/elementaryrock)
 
-## 🎵 My Spotify
-[![My Spotify](https://spotify-recently-played-readme.vercel.app/api?user=316x6innmikmiyiuqq5vic7glj54&unique=true&count=5)](https://open.spotify.com/user/316x6innmikmiyiuqq5vic7glj54)
-
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
