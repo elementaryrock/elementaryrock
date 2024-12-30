@@ -78,6 +78,11 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
+
+## 🎵 Now Playing
+
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=316x6innmikmiyiuqq5vic7glj54&unique={true|1|on|yes})
+
 ## Profile Views 👀
 ![Profile Views](https://komarev.com/ghpvc/?username=elementaryrock&color=F85D7F&style=for-the-badge)
 
