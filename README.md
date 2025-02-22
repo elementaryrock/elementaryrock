@@ -83,6 +83,8 @@
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=316x6innmikmiyiuqq5vic7glj54)
 
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000339.a2138e7213de4bc2be28b3e851a6be67.1641)](https://github.com/rayriffy/apple-music-github-profile)
+
 ## Profile Views 👀
 ![Profile Views](https://komarev.com/ghpvc/?username=elementaryrock&color=F85D7F&style=for-the-badge)
 
