@@ -50,6 +50,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elementaryrock&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## 📈 Contribution Graph
 [![Maanas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elementaryrock&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=F85D7F&point=F8D866&color=FFFFFF)](https://github.com/elementaryrock)
 
