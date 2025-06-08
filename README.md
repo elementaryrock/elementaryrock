@@ -74,7 +74,7 @@
 
 ### 🧑🏻‍💻 Tools & Platform
 
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-thaudioe-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
@@ -82,7 +82,7 @@
 
 ## 🎵 Now Playing
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=316x6innmikmiyiuqq5vic7glj54)
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31muzcjmfbghuymydjey34i2z2dq)
 
 ![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000339.a2138e7213de4bc2be28b3e851a6be67.1641)
 
